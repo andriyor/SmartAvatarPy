@@ -1,0 +1,15 @@
+{
+  "name": "Node.js Sample",
+  "description": "Bot for dynamic change profile photo",
+  "repository": "https://github.com/andriyor/SmartAvatarPy",
+  "logo": "http://citaty.info/files/characters/626.jpg",
+  "keywords": ["python", "VK", "PIL"],
+  "env": {
+    "LOGIN": {
+      "description": "Your VK login"
+    },
+    "PASSWORD": {
+      "description": "Your VK password"
+    }
+  }
+}
